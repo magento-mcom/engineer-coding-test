@@ -1,5 +1,11 @@
 # Engineer Coding Exercise
 
+## Rules
+
+You can select one of those languages to create the application: Java, Golang or PHP.
+Once you completed the basics, please send it back to us with a link to any code repository online tool like Github, bitbucket, Gitlab.
+If you have time enough, feel free to expand your skills demonstration making it perfect.
+
 ## Statement
 
 The goal of this exercise is to implement an API endpoint (no UI required) that will process an order received in JSON format. It must validate and persist the order in memory.
